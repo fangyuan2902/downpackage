@@ -1,0 +1,136 @@
+2022-09-30 02:11:24 +0000  Initial pipeline context: <IDEDistributionProcessingPipelineContext: 0x2d5f1b880; archive(resolved)="<IDEArchive: 0x6000283642a0>", distributionTask(resolved)="2", distributionDestination(resolved)="1", distributionMethod(resolved)="<IDEDistributionMethodDevelopmentSigned: 0x60000a515d80>", team(resolved)="<IDEProvisioningDisambiguatableBasicTeam: 0x600003e7eac0; teamID='CKBKB7T5NP', teamName='Shanghai Jane Jia Information Technology Co., Ltd.', teamType='Company', username='kangzefu@ehousechina.com', isFreeProvisioningTeam='0'>">
+	Chain (14, self inclusive):
+	<IDEDistributionProcessingPipelineContext: 0x2d5f1b880; archive = "<IDEArchive: 0x6000283642a0>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x60000a515d80>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600003e7eac0; teamID='CKBKB7T5NP', teamName='Shanghai Jane Jia Information Technology Co., Ltd.', teamType='Company', username='kangzefu@ehousechina.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionProcessingPipelineContext: 0x2de756100; archive = "<IDEArchive: 0x6000283642a0>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x60000a515d80>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600003e7eac0; teamID='CKBKB7T5NP', teamName='Shanghai Jane Jia Information Technology Co., Ltd.', teamType='Company', username='kangzefu@ehousechina.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x2e470e410; archive = "<IDEArchive: 0x6000283642a0>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x60000a515d80>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600003e7eac0; teamID='CKBKB7T5NP', teamName='Shanghai Jane Jia Information Technology Co., Ltd.', teamType='Company', username='kangzefu@ehousechina.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x2df5326b0; archive = "<IDEArchive: 0x6000283642a0>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x60000a515d80>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600003e7eac0; teamID='CKBKB7T5NP', teamName='Shanghai Jane Jia Information Technology Co., Ltd.', teamType='Company', username='kangzefu@ehousechina.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x11ee6ee10; archive = "<IDEArchive: 0x6000283642a0>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x60000a515d80>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600003e7eac0; teamID='CKBKB7T5NP', teamName='Shanghai Jane Jia Information Technology Co., Ltd.', teamType='Company', username='kangzefu@ehousechina.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x11ee64c80; archive = "<IDEArchive: 0x6000283642a0>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x60000a515d80>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600003e7eac0; teamID='CKBKB7T5NP', teamName='Shanghai Jane Jia Information Technology Co., Ltd.', teamType='Company', username='kangzefu@ehousechina.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x2cf104ca0; archive = "<IDEArchive: 0x6000283642a0>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x60000a515d80>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600003e7eac0; teamID='CKBKB7T5NP', teamName='Shanghai Jane Jia Information Technology Co., Ltd.', teamType='Company', username='kangzefu@ehousechina.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x2e43f9050; archive = "<IDEArchive: 0x6000283642a0>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x60000a515d80>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600003e7eac0; teamID='CKBKB7T5NP', teamName='Shanghai Jane Jia Information Technology Co., Ltd.', teamType='Company', username='kangzefu@ehousechina.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x2dad1c8d0; archive = "<IDEArchive: 0x6000283642a0>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x60000a515d80>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x600003e7eac0; teamID='CKBKB7T5NP', teamName='Shanghai Jane Jia Information Technology Co., Ltd.', teamType='Company', username='kangzefu@ehousechina.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x2a9567330; archive = "<IDEArchive: 0x6000283642a0>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x60000a515d80>", team="(null)">
+	<IDEDistributionContext: 0x11ee74410; archive = "<IDEArchive: 0x6000283642a0>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x60000a515d80>", team="(null)">
+	<IDEDistributionContext: 0x2df2ce000; archive = "<IDEArchive: 0x6000283642a0>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x60000a515d80>", team="(null)">
+	<IDEDistributionContext: 0x2daeafe10; archive = "<IDEArchive: 0x6000283642a0>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x60000a515d80>", team="(null)">
+	<IDEDistributionContext: 0x2dc18ab80; archive = "<IDEArchive: 0x6000283642a0>", distributionMethod="(null)", team="(null)">
+</IDEDistributionProcessingPipelineContext: 0x2d5f1b880>
+2022-09-30 02:11:24 +0000  Processing step: IDEDistributionCreateDestRootStep
+2022-09-30 02:11:24 +0000  Processing step: IDEDistributionCopyItemStep
+2022-09-30 02:11:24 +0000  Running /usr/bin/ditto '-V' '/Users/mac/Library/Developer/Xcode/Archives/2022-09-30/jjjr 2022-9-30, 10.11.xcarchive/Products/Applications/jjjr.app' '/var/folders/sf/c5y41lq546z3_ty290657mhm0000gn/T/XcodeDistPipeline.~~~qzkkAB/Root/Payload/jjjr.app'
+2022-09-30 02:11:24 +0000  >>> Copying /Users/mac/Library/Developer/Xcode/Archives/2022-09-30/jjjr 2022-9-30, 10.11.xcarchive/Products/Applications/jjjr.app 
+2022-09-30 02:11:24 +0000  copying file ./_CodeSignature/CodeResources ... 
+2022-09-30 02:11:24 +0000  3895 bytes for ./_CodeSignature/CodeResources
+2022-09-30 02:11:24 +0000  copying file ./Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib ... 
+2022-09-30 02:11:24 +0000  916 bytes for ./Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib
+2022-09-30 02:11:24 +0000  copying file ./Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib ... 
+2022-09-30 02:11:24 +0000  1197 bytes for ./Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib
+2022-09-30 02:11:24 +0000  copying file ./Base.lproj/Main.storyboardc/Info.plist ... 
+2022-09-30 02:11:24 +0000  258 bytes for ./Base.lproj/Main.storyboardc/Info.plist
+2022-09-30 02:11:24 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib ... 
+2022-09-30 02:11:24 +0000  1197 bytes for ./Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
+2022-09-30 02:11:24 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib ... 
+2022-09-30 02:11:24 +0000  896 bytes for ./Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
+2022-09-30 02:11:24 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/Info.plist ... 
+2022-09-30 02:11:24 +0000  258 bytes for ./Base.lproj/LaunchScreen.storyboardc/Info.plist
+2022-09-30 02:11:24 +0000  copying file ./embedded.mobileprovision ... 
+2022-09-30 02:11:24 +0000  21261 bytes for ./embedded.mobileprovision
+2022-09-30 02:11:24 +0000  copying file ./Info.plist ... 
+2022-09-30 02:11:24 +0000  1437 bytes for ./Info.plist
+2022-09-30 02:11:24 +0000  copying file ./jjjr ... 
+2022-09-30 02:11:24 +0000  70704 bytes for ./jjjr
+2022-09-30 02:11:24 +0000  copying file ./PkgInfo ... 
+2022-09-30 02:11:24 +0000  8 bytes for ./PkgInfo
+2022-09-30 02:11:24 +0000  /usr/bin/ditto exited with 0
+2022-09-30 02:11:24 +0000  Processing step: IDEDistributionEmbedProfileStep
+2022-09-30 02:11:24 +0000  Processing step: IDEDistributionInfoPlistStep
+2022-09-30 02:11:24 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2022-09-30 02:11:24 +0000  Processing step: IDEDistributionAppThinningPlistStep
+2022-09-30 02:11:24 +0000  Skipping step: IDEDistributionAppThinningPlistStep because it said so
+2022-09-30 02:11:24 +0000  Processing step: IDEDistributionCompileBitcodeStep
+2022-09-30 02:11:24 +0000  Skipping step: IDEDistributionCompileBitcodeStep because it said so
+2022-09-30 02:11:24 +0000  Processing step: IDEDistributionCodeSlimmingStep
+2022-09-30 02:11:24 +0000  Processing step: IDEDistributionCopyBCSymbolMapsStep
+2022-09-30 02:11:24 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2022-09-30 02:11:24 +0000  Processing step: IDEDistributionSymbolsStep
+2022-09-30 02:11:24 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2022-09-30 02:11:24 +0000  Processing step: IDEDistributionAppThinningStep
+2022-09-30 02:11:24 +0000  Skipping step: IDEDistributionAppThinningStep because it said so
+2022-09-30 02:11:24 +0000  Processing step: IDEDistributionArchThinningStep
+2022-09-30 02:11:24 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/sf/c5y41lq546z3_ty290657mhm0000gn/T/XcodeDistPipeline.~~~qzkkAB/Root/Payload/jjjr.app/jjjr' '-verify_arch' 'arm64e'
+2022-09-30 02:11:24 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2022-09-30 02:11:24 +0000  Skipping architecture thinning for item "jjjr" because arch "arm64e" wasn't found
+2022-09-30 02:11:24 +0000  Processing step: IDEDistributionODRStep
+2022-09-30 02:11:24 +0000  Processing step: IDEDistributionStripXattrsStep
+2022-09-30 02:11:24 +0000  Running /usr/bin/xattr '-crs' '/var/folders/sf/c5y41lq546z3_ty290657mhm0000gn/T/XcodeDistPipeline.~~~qzkkAB/Root/Payload/jjjr.app'
+2022-09-30 02:11:24 +0000  /usr/bin/xattr exited with 0
+2022-09-30 02:11:24 +0000  Processing step: IDEDistributionCodesignStep
+2022-09-30 02:11:24 +0000  Entitlements for <IDEDistributionItem: 0x6000283d4300; bundleID='com.jdj.jdmf', path='<DVTFilePath:0x600064cc5810:'/Users/mac/Library/Developer/Xcode/Archives/2022-09-30/jjjr 2022-9-30, 10.11.xcarchive/Products/Applications/jjjr.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60008c606030; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x6000293d5c30; name='Apple Development: 方 远 (7CZ7Q7DR3J)', hash='71A33EAC38489EF6BAB1C4CF814A4593D4651D24', serialNumber='778C394306E478DED6438E9279CFC3FC', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-08-15 02:58:26 +0000''>', entitlements='{
+    "application-identifier" = "CKBKB7T5NP.com.jdj.jdmf";
+    "com.apple.developer.team-identifier" = CKBKB7T5NP;
+    "get-task-allow" = 1;
+}', teamID='CKBKB7T5NP', identifier='com.jdj.jdmf', executablePath='<DVTFilePath:0x6000283d5140:'/Users/mac/Library/Developer/Xcode/Archives/2022-09-30/jjjr 2022-9-30, 10.11.xcarchive/Products/Applications/jjjr.app/jjjr'>', hardenedRuntime='0'>'>: {
+    "application-identifier" = "CKBKB7T5NP.com.jdj.jdmf";
+    "com.apple.developer.team-identifier" = CKBKB7T5NP;
+    "get-task-allow" = 1;
+}
+2022-09-30 02:11:24 +0000  Entitlements for <IDEDistributionItem: 0x6000283d4300; bundleID='com.jdj.jdmf', path='<DVTFilePath:0x600064cc5810:'/Users/mac/Library/Developer/Xcode/Archives/2022-09-30/jjjr 2022-9-30, 10.11.xcarchive/Products/Applications/jjjr.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60008c606030; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x6000290604d0; name='Apple Development: 方 远 (7CZ7Q7DR3J)', hash='71A33EAC38489EF6BAB1C4CF814A4593D4651D24', serialNumber='778C394306E478DED6438E9279CFC3FC', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-08-15 02:58:26 +0000''>', entitlements='{
+    "application-identifier" = "CKBKB7T5NP.com.jdj.jdmf";
+    "com.apple.developer.team-identifier" = CKBKB7T5NP;
+    "get-task-allow" = 1;
+}', teamID='CKBKB7T5NP', identifier='com.jdj.jdmf', executablePath='<DVTFilePath:0x6000283d5140:'/Users/mac/Library/Developer/Xcode/Archives/2022-09-30/jjjr 2022-9-30, 10.11.xcarchive/Products/Applications/jjjr.app/jjjr'>', hardenedRuntime='0'>'> are: {
+    "application-identifier" = "CKBKB7T5NP.com.jdj.jdmf";
+    "com.apple.developer.team-identifier" = CKBKB7T5NP;
+    "get-task-allow" = 1;
+}
+2022-09-30 02:11:24 +0000  Writing entitlements for <IDEDistributionItem: 0x6000283d4300; bundleID='com.jdj.jdmf', path='<DVTFilePath:0x600064cc5810:'/Users/mac/Library/Developer/Xcode/Archives/2022-09-30/jjjr 2022-9-30, 10.11.xcarchive/Products/Applications/jjjr.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60008c606030; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600029045ad0; name='Apple Development: 方 远 (7CZ7Q7DR3J)', hash='71A33EAC38489EF6BAB1C4CF814A4593D4651D24', serialNumber='778C394306E478DED6438E9279CFC3FC', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-08-15 02:58:26 +0000''>', entitlements='{
+    "application-identifier" = "CKBKB7T5NP.com.jdj.jdmf";
+    "com.apple.developer.team-identifier" = CKBKB7T5NP;
+    "get-task-allow" = 1;
+}', teamID='CKBKB7T5NP', identifier='com.jdj.jdmf', executablePath='<DVTFilePath:0x6000283d5140:'/Users/mac/Library/Developer/Xcode/Archives/2022-09-30/jjjr 2022-9-30, 10.11.xcarchive/Products/Applications/jjjr.app/jjjr'>', hardenedRuntime='0'>'> to: /var/folders/sf/c5y41lq546z3_ty290657mhm0000gn/T/XcodeDistPipeline.~~~qzkkAB/entitlements~~~WSy9Y9
+2022-09-30 02:11:24 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '71A33EAC38489EF6BAB1C4CF814A4593D4651D24' '--entitlements' '/var/folders/sf/c5y41lq546z3_ty290657mhm0000gn/T/XcodeDistPipeline.~~~qzkkAB/entitlements~~~WSy9Y9' '--generate-entitlement-der' '--preserve-metadata=identifier,flags,runtime' '/var/folders/sf/c5y41lq546z3_ty290657mhm0000gn/T/XcodeDistPipeline.~~~qzkkAB/Root/Payload/jjjr.app'
+2022-09-30 02:11:24 +0000  /var/folders/sf/c5y41lq546z3_ty290657mhm0000gn/T/XcodeDistPipeline.~~~qzkkAB/Root/Payload/jjjr.app: replacing existing signature
+2022-09-30 02:11:25 +0000  /var/folders/sf/c5y41lq546z3_ty290657mhm0000gn/T/XcodeDistPipeline.~~~qzkkAB/Root/Payload/jjjr.app: signed app bundle with Mach-O thin (arm64) [com.jdj.jdmf]
+2022-09-30 02:11:25 +0000  /usr/bin/codesign exited with 0
+2022-09-30 02:11:25 +0000  Processing step: IDEDistributionZipODRItemStep
+2022-09-30 02:11:25 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2022-09-30 02:11:25 +0000  Processing step: IDEDistributionCreateIPAStep
+2022-09-30 02:11:25 +0000  Running /usr/bin/ditto '-V' '-c' '-k' '--norsrc' '/var/folders/sf/c5y41lq546z3_ty290657mhm0000gn/T/XcodeDistPipeline.~~~qzkkAB/Root' '/var/folders/sf/c5y41lq546z3_ty290657mhm0000gn/T/XcodeDistPipeline.~~~qzkkAB/Packages/jjjr.ipa'
+2022-09-30 02:11:25 +0000  >>> Copying /var/folders/sf/c5y41lq546z3_ty290657mhm0000gn/T/XcodeDistPipeline.~~~qzkkAB/Root 
+2022-09-30 02:11:25 +0000  copying file ./Payload/jjjr.app/_CodeSignature/CodeResources ... 
+2022-09-30 02:11:25 +0000  3895 bytes for ./Payload/jjjr.app/_CodeSignature/CodeResources
+2022-09-30 02:11:25 +0000  copying file ./Payload/jjjr.app/Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib ... 
+2022-09-30 02:11:25 +0000  916 bytes for ./Payload/jjjr.app/Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib
+2022-09-30 02:11:25 +0000  copying file ./Payload/jjjr.app/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib ... 
+2022-09-30 02:11:25 +0000  1197 bytes for ./Payload/jjjr.app/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib
+copying file ./Payload/jjjr.app/Base.lproj/Main.storyboardc/Info.plist ... 
+2022-09-30 02:11:25 +0000  258 bytes for ./Payload/jjjr.app/Base.lproj/Main.storyboardc/Info.plist
+2022-09-30 02:11:25 +0000  copying file ./Payload/jjjr.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib ... 
+2022-09-30 02:11:25 +0000  1197 bytes for ./Payload/jjjr.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
+2022-09-30 02:11:25 +0000  copying file ./Payload/jjjr.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib ... 
+2022-09-30 02:11:25 +0000  896 bytes for ./Payload/jjjr.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
+2022-09-30 02:11:25 +0000  copying file ./Payload/jjjr.app/Base.lproj/LaunchScreen.storyboardc/Info.plist ... 
+2022-09-30 02:11:25 +0000  258 bytes for ./Payload/jjjr.app/Base.lproj/LaunchScreen.storyboardc/Info.plist
+copying file ./Payload/jjjr.app/embedded.mobileprovision ... 
+2022-09-30 02:11:25 +0000  21261 bytes for ./Payload/jjjr.app/embedded.mobileprovision
+copying file ./Payload/jjjr.app/Info.plist ... 
+2022-09-30 02:11:25 +0000  1437 bytes for ./Payload/jjjr.app/Info.plist
+2022-09-30 02:11:25 +0000  copying file ./Payload/jjjr.app/jjjr ... 
+2022-09-30 02:11:25 +0000  70704 bytes for ./Payload/jjjr.app/jjjr
+copying file ./Payload/jjjr.app/PkgInfo ... 
+2022-09-30 02:11:25 +0000  8 bytes for ./Payload/jjjr.app/PkgInfo
+2022-09-30 02:11:25 +0000  /usr/bin/ditto exited with 0
+2022-09-30 02:11:25 +0000  Processing step: IDEDistributionAppStoreInformationStep
+2022-09-30 02:11:25 +0000  Skipping step: IDEDistributionAppStoreInformationStep because it said so
+2022-09-30 02:11:25 +0000  Processing step: IDEDistributionGenerateProcessedDistributionItems
+2022-09-30 02:11:25 +0000  IDEDistributionItem init <DVTFilePath:0x60001cc1ab50:'/var/folders/sf/c5y41lq546z3_ty290657mhm0000gn/T/XcodeDistPipeline.~~~qzkkAB/Root/Payload/jjjr.app'>
+2022-09-30 02:11:25 +0000  Processing step: IDEDistributionCreateManifestStep
