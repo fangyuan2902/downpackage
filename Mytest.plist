@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://gitee.com/fang_yuan09/down-ipa/raw/master/jjjr.ipa</string>
+					<string>https://gitcode.net/u011490583/apidownload/raw/master/JDMF.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://gitee.com/fang_yuan09/down-ipa/raw/master/1024.png</string>
+					<string>https://gitcode.net/u011490583/apidownload/raw/master/60.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://gitee.com/fang_yuan09/down-ipa/raw/master/180.png</string>
+					<string>https://gitcode.net/u011490583/apidownload/raw/master/60.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
