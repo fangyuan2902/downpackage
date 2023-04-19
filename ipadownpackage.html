@@ -92,7 +92,6 @@
 <body>
 	<div class="download_div">
 		<p class="download_title">测试安装包v1.1.4</p>
-		<img class="img_app_overview" src="img_app_overview.png" alt="www">
 		<div class="download_button">
 			<button class="button button_green button_top" onclick="downloadClientApp();"><a href="javascript:void(0);">点击安装app</a></button>
 			<!-- <button class="button button_green button_top"><a href="{{androidAUrl}}">Android客户端下载</a></button> -->
@@ -104,8 +103,8 @@
 	<script>
 		var downloadClientApp = function() {
 			// 在此用到配置文件(Mytest.plist)的外部链接
-			// window.location.href='itms-services:///?action=download-manifest&url=https://gitee.com/fang_yuan09/down-ipa/raw/master/Mytest.plist';
 			window.location.href='itms-services:///?action=download-manifest&url=https://gitee.com/fang_yuan09/down-ipa/raw/master/Mytest.plist';
+			// window.location.href='itms-services:///?action=download-manifest&url=https://gitee.com/fang_yuan09/down-ipa/raw/master/Mytest.plist';
 		}
 	</script>
 </body>
